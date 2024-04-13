@@ -24,3 +24,7 @@ HOW TO RUN :
 
 RUN app2.py
 Replace the links with your own personal CV with data you want to visualize on Streamlit App.
+
+
+
+****THE RESPOSITORY IS NOT BEEN KEPT UPTO DATE. USE LASTEST VERISON OF LIBRARIES USED***
