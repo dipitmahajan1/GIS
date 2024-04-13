@@ -8,6 +8,9 @@ Folium: Folium is a Python library that enables the creation of interactive maps
 Streamlit: Streamlit is a powerful framework for building interactive web applications with Python. We'll utilize Streamlit to create a user-friendly interface for our GIS system, allowing users to upload data, customize map views, and perform analytical tasks effortlessly.
 Data Science Libraries: Various data science libraries such as Pandas, NumPy, and Scikit-learn will be integrated to handle data preprocessing, statistical analysis, and machine learning tasks if required.
 Flask Framework: Flask will be used as the web framework to deploy our GIS application. It will handle routing, request handling, and integration with other components seamlessly.
+
+
+
 Features:
 
 Map Visualization: Users can visualize geographic data in the form of regions, polygons, and coordinates overlaid on interactive maps powered by Folium.
