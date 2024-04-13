@@ -19,3 +19,8 @@ Customization Options: Users can customize map views by adjusting parameters suc
 Analytical Tools: Incorporation of data science libraries will enable users to perform various analytical tasks on geographical data, such as spatial clustering, geospatial analysis, and pattern recognition.
 User Interface: The user interface will be designed using Streamlit, offering an intuitive and interactive experience for users to explore and analyze geographical data seamlessly.
 Overall, our project aims to deliver a powerful yet user-friendly GIS system that leverages the capabilities of Python, Folium, Streamlit, and data science libraries within the Flask framework, empowering users to gain valuable insights from geographical data for informed decision-making.
+
+HOW TO RUN :
+
+RUN app2.py
+Replace the links with your own personal CV with data you want to visualize on Streamlit App.
